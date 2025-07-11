@@ -10,3 +10,4 @@ I am a System Engineering student with a passion for the arts, programming, and 
 
 # Contact
 - **Linkedin**: https://www.linkedin.com/in/juan-serrano-3a97311b7/
+- **Portfolio**: https://juanser.vercel.app/home
